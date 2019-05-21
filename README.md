@@ -6,7 +6,7 @@ In this assignment, I created an app call LIRI. LIRI is like iPhone's SIRI. Howe
 
 this app is called Liri stands for Language Interpretation and Recognition Interface, capable of searching spotify, OMDB, and Bands in Town. This is all executed via the Node terminal.
 
-the Commands are as Follows:
+###Commands are as Follows:
 
 1. Do-What-It-Says
 2. Movie-This
@@ -14,7 +14,9 @@ the Commands are as Follows:
 4. Concert-This
 
 
-####NPM PACKAGES USED
+###NPM PACKAGES USED
 Axios, Node.js, OMDB API, Bandsintown API, Spotify API, Moment, DotEnv
 
+#Video Attached Below 
 
+<a href="https://drive.google.com/file/d/1NfK3wWnGyqh_xISVEUfes6vDASmtE62G/view?usp=sharing">Liri-Bot(Video of Node Functionality)</a>
